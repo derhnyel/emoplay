@@ -1,0 +1,7 @@
+Flask==2.0.2
+keras==2.6.0
+mtcnn==0.1.0
+gunicorn
+tensorflow-cpu==2.6.1
+opencv-python-headless==4.2.0.32
+pillow
