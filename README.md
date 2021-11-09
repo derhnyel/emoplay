@@ -80,7 +80,7 @@ Since tensorflow supports python 3.6 , i would advice you have python 3.6 ,3.5 o
 
 ### `pip install -r requirements.txt" : "required libaries installed"`,
 
-This will install the the neccesarry libaries need to run the application on your machine. 
+This will install the the neccesarry libaries needed to run the application on your machine. 
 ### `python app.py" : "python-scripts start"`,
 
 The app is built using `Flask` so this command Runs the app in Development mode. Open [http://localhost:5000](http://localhost:5000) to view it in the browser. The page will reload if you make edits.
