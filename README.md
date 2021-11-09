@@ -1,14 +1,13 @@
 <h1 align="center">PLAYEMO</h1>
 
-<p align="center">Playemo was built from the ground-up with Flask, a python tool that makes it easy for developers to build APIs.
+<p align="center">Playemo was built from the ground-up with Flask, a python tool that makes it easy for developers to build APIs.</p>
 
-Please don't hesitate to [file an issue](https://github.com/playemo/issues/new) if you see anything missing.</p>
+
+## Use Cases
 
 {% hint style="info" %}
 **Is Python your language of choice?** If so, we have a [fully-supported Python API client] that makes working with the playemo API an easy task!
 {% endhint %}
-
-## Use Cases
 
 There are many reasons to use the playemo API. The most common use case is to predict the emotion of a person from a single photograph.
 However, this can also be used as a facial detection engine which returns a cropped out image of the face detected in a single photograph.!
@@ -58,6 +57,8 @@ Playemo returns the following status codes in its API:
 | 500 | `INTERNAL SERVER ERROR` |
 
 ## Links
+
+Please don't hesitate to [file an issue](https://github.com/playemo/issues/new) if you see anything missing.
 
 - [Repo](https://github.com/derhnyel/playemo_api "playemo_api Repo")
 
