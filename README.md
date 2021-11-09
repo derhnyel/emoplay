@@ -1,4 +1,4 @@
-<h1 align="center"><playemo></h1>
+<h1 align="center">PLAYEMO</h1>
 
 <p align="center">Playemo was built from the ground-up with Flask, a python tool that makes it easy for developers to build APIs.
 
