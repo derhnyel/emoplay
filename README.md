@@ -59,11 +59,11 @@ Playemo returns the following status codes in its API:
 
 ## Links
 
-- [Repo](https://github.com/derhnyel/<playemo> "<project-name> Repo")
+- [Repo](https://github.com/derhnyel/playemo_api "playemo_api Repo")
 
 - [Live](<hhtps://emoplay.herokuapp.com> "Live View")
 
-- [Bugs](https://github.com/derhnyel/<playemo>/issues "Issues Page")
+- [Bugs](https://github.com/derhnyel/playemo_api/issues "Issues Page")
 
 - [API](<hhtps://emoplay.herokuapp.com> "API")
 
