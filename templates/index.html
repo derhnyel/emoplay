@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> </title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" />
+<title>PlayEmoApi</title>
+</head>
+<body>
+    <h1>Welcome to PLAYEMO API</h1>
+        <ul>
+            <li>Flask</li>
+        
+            <li>Deep Learning</li>
+        
+            <li>Heroku</li>
+        </ul>
+        
+        <p><strong>How this works:</strong></p>
+        
+        <ul>
+            <li>User makes a <code>POST</code> request to the API.</li>
+        
+            <li>Sends an <code>Image</code> with a key 'Image' in the files dictionary</li>
+        
+        </ul>
+        
+        <p><strong>Routes:</strong></p>
+        
+        <ul>
+            <li>Base URL: <code>https://emoplay.herokuapp.com</code></li>
+        
+            <li>Scrape Request: <code>https://emoplay.herokuapp.com/</code></li>
+        
+            <li>Request Method: <code>POST</code></li>
+        
+            <li>Scheme:</li>
+        </ul>
+        <pre>
+            <h6>#PYTHON EXAMPLE</h6>
+            <code class="json language-json"></code>
+            import requests
+            url = 'https://emoplay.herokuapp.com'
+            response = requests.post(url, files={'image': open('local_path_to_your_image_file', 'rb')})
+            </code></pre>    
+</body>
+
