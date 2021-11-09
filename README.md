@@ -1,8 +1,8 @@
 <h1 align="center"><playemo></h1>
 
-<p align="center"><Playemo was built from the ground-up with Flask, a python tool that makes it easy for developers to build APIs.
+<p align="center">Playemo was built from the ground-up with Flask, a python tool that makes it easy for developers to build APIs.
 
-Please don't hesitate to [file an issue](https://github.com/playemo/issues/new) if you see anything missing.></p>
+Please don't hesitate to [file an issue](https://github.com/playemo/issues/new) if you see anything missing.</p>
 
 {% hint style="info" %}
 **Is Python your language of choice?** If so, we have a [fully-supported Python API client] that makes working with the playemo API an easy task!
