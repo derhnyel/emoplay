@@ -5,9 +5,9 @@
 
 ## Use Cases
 
-{% hint style="info" %}
+
 **Is Python your language of choice?** If so, we have a [fully-supported Python API client] that makes working with the playemo API an easy task!
-{% endhint %}
+
 
 There are many reasons to use the playemo API. The most common use case is to predict the emotion of a person from a single photograph.
 However, this can also be used as a facial detection engine which returns a cropped out image of the face detected in a single photograph.!
@@ -99,7 +99,7 @@ You will also see any lint errors in the console.
 
 ## Future Updates
 
-- [ ] 
+- [] 
 
 ## Author
 
