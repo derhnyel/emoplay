@@ -76,7 +76,7 @@ Please don't hesitate to [file an issue](https://github.com/playemo/issues/new) 
 In the project directory, you can run:
 `python--version" : "check python version"`,
 
-Since tensorflow supports python 3.6 , i would advice you have python 3.6 ,3.5 or 3.4 installed on your machine.
+Since tensorflow supports python 3.7,3.6,3.5 or 3.4, i would advice you have python 3.6 installed on your machine.
 
 ### `pip install -r requirements.txt" : "required libaries installed"`,
 
@@ -99,7 +99,7 @@ You will also see any lint errors in the console.
 
 ## Future Updates
 
-- [] 
+- A playlist recommendation system based on Emotion predicted
 
 ## Author
 
