@@ -65,7 +65,7 @@ Playemo returns the following status codes in its API:
 
 - [Bugs](https://github.com/derhnyel/playemo_api/issues "Issues Page")
 
-- [API](https://emoplay.herokuapp.com "API")
+- [API](https://emoplay.herokuapp.com/"API")
 
 ## Screenshots
 
