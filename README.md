@@ -61,11 +61,11 @@ Playemo returns the following status codes in its API:
 
 - [Repo](https://github.com/derhnyel/playemo_api "playemo_api Repo")
 
-- [Live](hhtps://emoplay.herokuapp.com "Live View")
+- [Live](https://emoplay.herokuapp.com "Live View")
 
 - [Bugs](https://github.com/derhnyel/playemo_api/issues "Issues Page")
 
-- [API](hhtps://emoplay.herokuapp.com "API")
+- [API](https://emoplay.herokuapp.com "API")
 
 ## Screenshots
 
