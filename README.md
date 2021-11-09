@@ -61,11 +61,11 @@ Playemo returns the following status codes in its API:
 
 - [Repo](https://github.com/derhnyel/playemo_api "playemo_api Repo")
 
-- [Live](<hhtps://emoplay.herokuapp.com> "Live View")
+- [Live](hhtps://emoplay.herokuapp.com "Live View")
 
 - [Bugs](https://github.com/derhnyel/playemo_api/issues "Issues Page")
 
-- [API](<hhtps://emoplay.herokuapp.com> "API")
+- [API](hhtps://emoplay.herokuapp.com "API")
 
 ## Screenshots
 
@@ -99,13 +99,13 @@ You will also see any lint errors in the console.
 
 ## Future Updates
 
-- [ ] Reliable Storage
+- [ ] 
 
 ## Author
 
 **DERHNYEL**
 
-- [Profile](https://github.com/derhnyel "Rohit jain")
+- [Profile](https://github.com/derhnyel "Eje Daniel")
 - [Email](mailto:ejedenials@gmail.com?subject=Hi "Hi!")
 - [Website](https://daniel-eje.herokuapp.com "Welcome")
 
