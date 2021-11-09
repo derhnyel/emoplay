@@ -61,7 +61,7 @@ Playemo returns the following status codes in its API:
 
 ## Links
 
-Please don't hesitate to [file an issue](https://github.com/playemo/issues/new) if you see anything missing.
+Please don't hesitate to [file an issue](https://github.com/playemo_api/issues/new) if you see anything missing.
 
 - [Repo](https://github.com/derhnyel/playemo_api "playemo_api Repo")
 
