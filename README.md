@@ -2,7 +2,7 @@
 [![Python 3.7|3.6|3.5|3.4](https://img.shields.io/badge/python-3.5%7C3.6%7C3.7%7C3.8-blue)](https://www.python.org/downloads/)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/GdriveSearcherBot)
 
-<h1 align="center">PLAYEMO</h1>
+<h3 align="center">PLAYEMO</h1>
 <p align="center">Playemo was built from the ground-up with Flask, a python tool that makes it easy for developers to build APIs.</p>
 <hr/>
 
